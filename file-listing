@@ -1,5 +1,41 @@
 .
-├── matree
+├── file-listing
+├── oddjob
+│   ├── Binaries
+│   │   ├── oddjob_builder
+│   │   │   ├── bin
+│   │   │   │   ├── oddjob_v3_x64.dll
+│   │   │   │   ├── oddjob_v3_x64.exe
+│   │   │   │   ├── oddjob_v3_x86.dll
+│   │   │   │   └── oddjob_v3_x86.exe
+│   │   │   ├── builder
+│   │   │   │   ├── oddjob_config_v3.exe
+│   │   │   │   └── Projects
+│   │   │   └── ODDJOB_BUilder_v3.hta
+│   │   └── Payloads
+│   │       ├── bigpayload.bin
+│   │       ├── five_minute_beacon.bin
+│   │       ├── greha_dll_x64.dll
+│   │       ├── greha_dll_x86.dll
+│   │       ├── OJ_Deleter_2.4.exe
+│   │       ├── one_byte_payload.bin
+│   │       ├── one_minute_beacon.bin
+│   │       ├── process_list.bin
+│   │       ├── two_minute_beacon.bin
+│   │       └── zero_byte_payload.bin
+│   ├── Not-For-Release
+│   │   ├── hashes.txt
+│   │   ├── oddjob_v3_x64.dllstrings.txt
+│   │   ├── oddjob_v3_x64.exestrings.txt
+│   │   ├── oddjob_v3_x86.dllstrings.txt
+│   │   └── oddjob_v3_x86.exestrings.txt
+│   ├── Testing-Docs
+│   │   ├── ODDJOB_Testing.docx
+│   │   └── tungsten_flame.txt
+│   └── User-Docs
+│       ├── BITSversions.xlsx
+│       └── How_to_setup_IIS_7_for_ODDJOB.docx
+├── README.md
 ├── swift
 │   ├── 00503_0_254.242_2013mar02
 │   ├── 00546_0_ensbdasa-09aug2013
@@ -7747,4 +7783,4 @@
     ├── user.defaults
     └── user.defaults.replay
 
-1226 directories, 6521 files
+1236 directories, 6547 files
