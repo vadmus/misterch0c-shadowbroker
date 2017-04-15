@@ -12,7 +12,7 @@ https://steemit.com/shadowbrokers/@theshadowbrokers/lost-in-translation
 - **ETERNALROMANCE** is a SMB1 exploit over TCP port 445 which targets XP, 2003, Vista, 7, Windows 8, 2008, 2008 R2, and gives SYSTEM privileges
 - **EDUCATEDSCHOLAR** is a SMB exploit
 - **EMERALDTHREAD** is a SMB exploit for Windows XP and Server 2003
-- **EMPHASISMINE** is a remote IMAP exploit for IBM Lotus
+- **EMPHASISMINE** is a remote IMAP exploit for IBM Lotus Domino 6.6.4 to 8.5.2
 - **ENGLISHMANSDENTIST** sets Outlook Exchange WebAccess rules to trigger executable code on the client's side to send an email to other users
 - **EPICHERO** 0-day exploit (RCE) for Avaya Call Server
 - **ERRATICGOPHER** is a SMBv1 exploit targeting Windows XP and Server 2003
@@ -26,4 +26,11 @@ https://steemit.com/shadowbrokers/@theshadowbrokers/lost-in-translation
 - **FUZZBUNCH** is an exploit framework, similar to MetaSploit
 - **ODDJOB** is an implant builder and C&C server that can deliver exploits for Windows 2000 and later, also not detected by any AV vendors 
 
+
+# Utilities
+
 - **PASSFREELY** utility which "Bypasses authentication for Oracle servers"
+- **SMBTOUCH** Check if the target is vulnerable to samba exploits like ETERNALSYNERGY, ETERNALBLUE, ETERNALROMANCE 
+- **ERRATICGOPHERTOUCH**  Check if the target is running some RPC
+- **IISTOUCH** Check if the running IIS version is vulnerable
+- **RPCOUTCH** Get info about windows via RPC
