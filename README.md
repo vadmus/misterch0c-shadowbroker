@@ -7,7 +7,7 @@ https://steemit.com/shadowbrokers/@theshadowbrokers/lost-in-translation
 - **ECHOWRECKER** remote Samba 3.0.x Linux exploit. 
 - **EASYBEE** appears to be an MDaemon email server vulnerability
 - **EASYPI** is an IBM Lotus Notes exploit  that gets detected as Stuxnet 
-- **EWOKFRENZY** is an exploit for IBM Lotus Domino 6.5.4 
+- **EWOKFRENZY** is an exploit for IBM Lotus Domino 6.5.4 & 7.0.2
 - **EXPLODINGCAN** is an IIS 6.0 exploit that creates a remote backdoor
 - **ETERNALROMANCE** is a SMB1 exploit over TCP port 445 which targets XP, 2003, Vista, 7, Windows 8, 2008, 2008 R2, and gives SYSTEM privileges
 - **EDUCATEDSCHOLAR** is a SMB exploit
@@ -25,3 +25,5 @@ https://steemit.com/shadowbrokers/@theshadowbrokers/lost-in-translation
 - **ETRE** is an exploit for IMail 8.10 to 8.22 
 - **FUZZBUNCH** is an exploit framework, similar to MetaSploit
 - **ODDJOB** is an implant builder and C&C server that can deliver exploits for Windows 2000 and later, also not detected by any AV vendors 
+
+- **PASSFREELY** utility which "Bypasses authentication for Oracle servers"
