@@ -23,8 +23,14 @@ https://steemit.com/shadowbrokers/@theshadowbrokers/lost-in-translation
 - **ESTEEMAUDIT** is an RDP exploit and backdoor for Windows Server 2003
 - **ECLIPSEDWING** is an RCE exploit for the Server service in Windows Server 2008 and later (MS08-067)
 - **ETRE** is an exploit for IMail 8.10 to 8.22 
+- **ETCETERABLUE** is an exploit for IMail 7.04 to 8.05
 - **FUZZBUNCH** is an exploit framework, similar to MetaSploit
 - **ODDJOB** is an implant builder and C&C server that can deliver exploits for Windows 2000 and later, also not detected by any AV vendors 
+- **EXPIREDPAYCHECK** IIS6 exploit
+- **EAGERLEVER** NBT/SMB exploit for Windows NT4.0, 2000, XP SP1 & SP2, 2003 SP1 & Base Release
+- **EASYFUN** WordClient / IIS6.0 exploit
+- **ESSAYKEYNOTE** 
+- **EVADEFRED**
 
 
 # Utilities
