@@ -6,6 +6,7 @@ https://steemit.com/shadowbrokers/@theshadowbrokers/lost-in-translation
 - **EBBISLAND (EBBSHAVE)** root RCE via RPC XDR overflow in Solaris 6, 7, 8, 9 & 10 (possibly newer) both SPARC and x86.
 - **ECHOWRECKER** remote Samba 3.0.x Linux exploit. 
 - **EASYBEE** appears to be an MDaemon email server vulnerability
+- **EASYFUN** EasyFun 2.2.0 Exploit for WDaemon / IIS MDaemon/WorldClient pre 9.5.6
 - **EASYPI** is an IBM Lotus Notes exploit  that gets detected as Stuxnet 
 - **EWOKFRENZY** is an exploit for IBM Lotus Domino 6.5.4 & 7.0.2
 - **EXPLODINGCAN** is an IIS 6.0 exploit that creates a remote backdoor
