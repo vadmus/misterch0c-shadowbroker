@@ -42,3 +42,4 @@ https://steemit.com/shadowbrokers/@theshadowbrokers/lost-in-translation
 - **IISTOUCH** check if the running IIS version is vulnerable
 - **RPCOUTCH** get info about windows via RPC
 - **DOPU** used to connect to machines exploited by ETERNALCHAMPIONS
+- **NAMEDPIPETOUCH** Utility to test for a predefined list of named pipes, mostly AV detection. User can add checks for custom named pipes.
